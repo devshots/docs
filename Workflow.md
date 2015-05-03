@@ -1,0 +1,21 @@
+- Gather requirements from the client
+  - Backend requirements
+    - Database
+    - User management
+  - Backend Platform
+    - Parse
+    - Google Apps
+  - Mobile Platforms
+    - iOS
+    - Android
+- Sprintly
+  - Add stories to project
+    - Break stories into tasks
+- Mockup UI/UX
+  - Use Sketch/Illustrator
+  - By off from client
+- Coding
+  - Decide on platform
+    - Native
+    - Iconic
+    - other

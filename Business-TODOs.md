@@ -1,0 +1,4 @@
+- [ ] Incorporate
+- [ ] Bank Account
+- [ ] Logo
+- [ ] Move email to Google
